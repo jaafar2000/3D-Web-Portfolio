@@ -15,7 +15,7 @@ Thanks for checking out this Application.
 
 - React Js
 - tailwindcss
-- -threejs
+- threejs
 - JavaScript
 - JSX
 
